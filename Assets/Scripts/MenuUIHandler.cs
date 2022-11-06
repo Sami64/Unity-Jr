@@ -17,7 +17,7 @@ public class MenuUIHandler : MonoBehaviour
     public void NewColorSelected(Color color)
     {
        
-        
+        // streak day 2
             MainManager.Instance.TeamColor = color;
         
     }
